@@ -1,607 +1,607 @@
 [
   {
     "name": "Bulbizarre",
-    "image": "https://github.com/TimeeRox/SpritePokemon/blob/main/001.png?raw=true"
+    "image": "https://github.com/TimeeRox/database/blob/main/Sprites/001.png?raw=true"
   },
   {
     "name": "Herbizarre",
-    "image": "https://github.com/fanzeyi/pokemon.json/blob/master/images/002.png?raw=true"
+    "image": "https://github.com/TimeeRox/database/blob/main/Sprites/002.png?raw=true"
   },
   {
     "name": "Florizarre",
-    "image": "https://github.com/fanzeyi/pokemon.json/blob/master/images/003.png?raw=true"
+    "image": "https://github.com/TimeeRox/database/blob/main/Sprites/003.png?raw=true"
   },
   {
     "name": "Salamèche",
-    "image": "https://github.com/fanzeyi/pokemon.json/blob/master/images/004.png?raw=true"
+    "image": "https://github.com/TimeeRox/database/blob/main/Sprites/004.png?raw=true"
   },
   {
     "name": "Reptincel",
-    "image": "https://github.com/fanzeyi/pokemon.json/blob/master/images/005.png?raw=true"
+    "image": "https://github.com/TimeeRox/database/blob/main/Sprites/005.png?raw=true"
   },
   {
     "name": "Dracaufeu",
-    "image": "https://github.com/fanzeyi/pokemon.json/blob/master/images/006.png?raw=true"
+    "image": "https://github.com/TimeeRox/database/blob/main/Sprites/006.png?raw=true"
   },
   {
     "name": "Carapuce",
-    "image": "https://github.com/fanzeyi/pokemon.json/blob/master/images/007.png?raw=true"
+    "image": "https://github.com/TimeeRox/database/blob/main/Sprites/007.png?raw=true"
   },
   {
     "name": "Carabaffe",
-    "image": "https://github.com/fanzeyi/pokemon.json/blob/master/images/008.png?raw=true"
+    "image": "https://github.com/TimeeRox/database/blob/main/Sprites/008.png?raw=true"
   },
   {
     "name": "Tortank",
-    "image": "https://github.com/fanzeyi/pokemon.json/blob/master/images/009.png?raw=true"
+    "image": "https://github.com/TimeeRox/database/blob/main/Sprites/009.png?raw=true"
   },
   {
     "name": "Chenipan",
-    "image": "https://github.com/fanzeyi/pokemon.json/blob/master/images/010.png?raw=true"
+    "image": "https://github.com/TimeeRox/database/blob/main/Sprites/010.png?raw=true"
   },
   {
     "name": "Chrysacier",
-    "image": "https://github.com/fanzeyi/pokemon.json/blob/master/images/011.png?raw=true"
+    "image": "https://github.com/TimeeRox/database/blob/main/Sprites/011.png?raw=true"
   },
   {
     "name": "Papilusion",
-    "image": "https://github.com/fanzeyi/pokemon.json/blob/master/images/012.png?raw=true"
+    "image": "https://github.com/TimeeRox/database/blob/main/Sprites/012.png?raw=true"
   },
   {
     "name": "Aspicot",
-    "image": "https://github.com/fanzeyi/pokemon.json/blob/master/images/013.png?raw=true"
+    "image": "https://github.com/TimeeRox/database/blob/main/Sprites/013.png?raw=true"
   },
   {
     "name": "Coconfort",
-    "image": "https://github.com/fanzeyi/pokemon.json/blob/master/images/014.png?raw=true"
+    "image": "https://github.com/TimeeRox/database/blob/main/Sprites/014.png?raw=true"
   },
   {
     "name": "Dardargnan",
-    "image": "https://github.com/fanzeyi/pokemon.json/blob/master/images/015.png?raw=true"
+    "image": "https://github.com/TimeeRox/database/blob/main/Sprites/015.png?raw=true"
   },
   {
     "name": "Roucool",
-    "image": "https://github.com/fanzeyi/pokemon.json/blob/master/images/016.png?raw=true"
+    "image": "https://github.com/TimeeRox/database/blob/main/Sprites/016.png?raw=true"
   },
   {
     "name": "Roucoups",
-    "image": "https://github.com/fanzeyi/pokemon.json/blob/master/images/017.png?raw=true"
+    "image": "https://github.com/TimeeRox/database/blob/main/Sprites/017.png?raw=true"
   },
   {
     "name": "Roucarnage",
-    "image": "https://github.com/fanzeyi/pokemon.json/blob/master/images/018.png?raw=true"
+    "image": "https://github.com/TimeeRox/database/blob/main/Sprites/018.png?raw=true"
   },
   {
     "name": "Rattata",
-    "image": "https://github.com/fanzeyi/pokemon.json/blob/master/images/019.png?raw=true"
+    "image": "https://github.com/TimeeRox/database/blob/main/Sprites/019.png?raw=true"
   },
   {
     "name": "Rattatac",
-    "image": "https://github.com/fanzeyi/pokemon.json/blob/master/images/020.png?raw=true"
+    "image": "https://github.com/TimeeRox/database/blob/main/Sprites/020.png?raw=true"
   },
   {
     "name": "Piafabec",
-    "image": "https://github.com/fanzeyi/pokemon.json/blob/master/images/021.png?raw=true"
+    "image": "https://github.com/TimeeRox/database/blob/main/Sprites/021.png?raw=true"
   },
   {
     "name": "Rapasdepic",
-    "image": "https://github.com/fanzeyi/pokemon.json/blob/master/images/022.png?raw=true"
+    "image": "https://github.com/TimeeRox/database/blob/main/Sprites/022.png?raw=true"
   },
   {
     "name": "Abo",
-    "image": "https://github.com/fanzeyi/pokemon.json/blob/master/images/023.png?raw=true"
+    "image": "https://github.com/TimeeRox/database/blob/main/Sprites/023.png?raw=true"
   },
   {
     "name": "Arbok",
-    "image": "https://github.com/fanzeyi/pokemon.json/blob/master/images/024.png?raw=true"
+    "image": "https://github.com/TimeeRox/database/blob/main/Sprites/024.png?raw=true"
   },
   {
     "name": "Pikachu",
-    "image": "https://github.com/fanzeyi/pokemon.json/blob/master/images/025.png?raw=true"
+    "image": "https://github.com/TimeeRox/database/blob/main/Sprites/025.png?raw=true"
   },
   {
     "name": "Raichu",
-    "image": "https://github.com/fanzeyi/pokemon.json/blob/master/images/026.png?raw=true"
+    "image": "https://github.com/TimeeRox/database/blob/main/Sprites/026.png?raw=true"
   },
   {
     "name": "Sabelette",
-    "image": "https://github.com/fanzeyi/pokemon.json/blob/master/images/027.png?raw=true"
+    "image": "https://github.com/TimeeRox/database/blob/main/Sprites/027.png?raw=true"
   },
   {
     "name": "Sablaireau",
-    "image": "https://github.com/fanzeyi/pokemon.json/blob/master/images/028.png?raw=true"
+    "image": "https://github.com/TimeeRox/database/blob/main/Sprites/028.png?raw=true"
   },
   {
     "name": "Nidoran",
-    "image": "https://github.com/fanzeyi/pokemon.json/blob/master/images/029.png?raw=true"
+    "image": "https://github.com/TimeeRox/database/blob/main/Sprites/029.png?raw=true"
   },
   {
     "name": "Nidorina",
-    "image": "https://github.com/fanzeyi/pokemon.json/blob/master/images/030.png?raw=true"
+    "image": "https://github.com/TimeeRox/database/blob/main/Sprites/030.png?raw=true"
   },
   {
     "name": "Nidoqueen",
-    "image": "https://github.com/fanzeyi/pokemon.json/blob/master/images/031.png?raw=true"
+    "image": "https://github.com/TimeeRox/database/blob/main/Sprites/031.png?raw=true"
   },
   {
     "name": "Nidoran",
-    "image": "https://github.com/fanzeyi/pokemon.json/blob/master/images/032.png?raw=true"
+    "image": "https://github.com/TimeeRox/database/blob/main/Sprites/032.png?raw=true"
   },
   {
     "name": "Nidorino",
-    "image": "https://github.com/fanzeyi/pokemon.json/blob/master/images/033.png?raw=true"
+    "image": "https://github.com/TimeeRox/database/blob/main/Sprites/033.png?raw=true"
   },
   {
     "name": "Nidoking",
-    "image": "https://github.com/fanzeyi/pokemon.json/blob/master/images/034.png?raw=true"
+    "image": "https://github.com/TimeeRox/database/blob/main/Sprites/034.png?raw=true"
   },
   {
     "name": "Mélofée",
-    "image": "https://github.com/fanzeyi/pokemon.json/blob/master/images/035.png?raw=true"
+    "image": "https://github.com/TimeeRox/database/blob/main/Sprites/035.png?raw=true"
   },
   {
     "name": "Mélodelfe",
-    "image": "https://github.com/fanzeyi/pokemon.json/blob/master/images/036.png?raw=true"
+    "image": "https://github.com/TimeeRox/database/blob/main/Sprites/036.png?raw=true"
   },
   {
     "name": "Goupix",
-    "image": "https://github.com/fanzeyi/pokemon.json/blob/master/images/037.png?raw=true"
+    "image": "https://github.com/TimeeRox/database/blob/main/Sprites/037.png?raw=true"
   },
   {
     "name": "Feunard",
-    "image": "https://github.com/fanzeyi/pokemon.json/blob/master/images/038.png?raw=true"
+    "image": "https://github.com/TimeeRox/database/blob/main/Sprites/038.png?raw=true"
   },
   {
     "name": "Rondoudou",
-    "image": "https://github.com/fanzeyi/pokemon.json/blob/master/images/039.png?raw=true"
+    "image": "https://github.com/TimeeRox/database/blob/main/Sprites/039.png?raw=true"
   },
   {
     "name": "Grodoudou",
-    "image": "https://github.com/fanzeyi/pokemon.json/blob/master/images/040.png?raw=true"
+    "image": "https://github.com/TimeeRox/database/blob/main/Sprites/040.png?raw=true"
   },
   {
     "name": "Nosferapti",
-    "image": "https://github.com/fanzeyi/pokemon.json/blob/master/images/041.png?raw=true"
+    "image": "https://github.com/TimeeRox/database/blob/main/Sprites/041.png?raw=true"
   },
   {
     "name": "Nosferalto",
-    "image": "https://github.com/fanzeyi/pokemon.json/blob/master/images/042.png?raw=true"
+    "image": "https://github.com/TimeeRox/database/blob/main/Sprites/042.png?raw=true"
   },
   {
     "name": "Mystherbe",
-    "image": "https://github.com/fanzeyi/pokemon.json/blob/master/images/043.png?raw=true"
+    "image": "https://github.com/TimeeRox/database/blob/main/Sprites/043.png?raw=true"
   },
   {
     "name": "Ortide",
-    "image": "https://github.com/fanzeyi/pokemon.json/blob/master/images/044.png?raw=true"
+    "image": "https://github.com/TimeeRox/database/blob/main/Sprites/044.png?raw=true"
   },
   {
     "name": "Rafflesia",
-    "image": "https://github.com/fanzeyi/pokemon.json/blob/master/images/045.png?raw=true"
+    "image": "https://github.com/TimeeRox/database/blob/main/Sprites/045.png?raw=true"
   },
   {
     "name": "Paras",
-    "image": "https://github.com/fanzeyi/pokemon.json/blob/master/images/046.png?raw=true"
+    "image": "https://github.com/TimeeRox/database/blob/main/Sprites/046.png?raw=true"
   },
   {
     "name": "Parasect",
-    "image": "https://github.com/fanzeyi/pokemon.json/blob/master/images/047.png?raw=true"
+    "image": "https://github.com/TimeeRox/database/blob/main/Sprites/047.png?raw=true"
   },
   {
     "name": "Mimitoss",
-    "image": "https://github.com/fanzeyi/pokemon.json/blob/master/images/048.png?raw=true"
+    "image": "https://github.com/TimeeRox/database/blob/main/Sprites/048.png?raw=true"
   },
   {
     "name": "Aéromite",
-    "image": "https://github.com/fanzeyi/pokemon.json/blob/master/images/049.png?raw=true"
+    "image": "https://github.com/TimeeRox/database/blob/main/Sprites/049.png?raw=true"
   },
   {
     "name": "Taupiqueur",
-    "image": "https://github.com/fanzeyi/pokemon.json/blob/master/images/050.png?raw=true"
+    "image": "https://github.com/TimeeRox/database/blob/main/Sprites/050.png?raw=true"
   },
   {
     "name": "Triopikeur",
-    "image": "https://github.com/fanzeyi/pokemon.json/blob/master/images/051.png?raw=true"
+    "image": "https://github.com/TimeeRox/database/blob/main/Sprites/051.png?raw=true"
   },
   {
     "name": "Miaouss",
-    "image": "https://github.com/fanzeyi/pokemon.json/blob/master/images/052.png?raw=true"
+    "image": "https://github.com/TimeeRox/database/blob/main/Sprites/052.png?raw=true"
   },
   {
     "name": "Persian",
-    "image": "https://github.com/fanzeyi/pokemon.json/blob/master/images/053.png?raw=true"
+    "image": "https://github.com/TimeeRox/database/blob/main/Sprites/053.png?raw=true"
   },
   {
     "name": "Psykokwak",
-    "image": "https://github.com/fanzeyi/pokemon.json/blob/master/images/054.png?raw=true"
+    "image": "https://github.com/TimeeRox/database/blob/main/Sprites/054.png?raw=true"
   },
   {
     "name": "Akwakwak",
-    "image": "https://github.com/fanzeyi/pokemon.json/blob/master/images/055.png?raw=true"
+    "image": "https://github.com/TimeeRox/database/blob/main/Sprites/055.png?raw=true"
   },
   {
     "name": "Férosinge",
-    "image": "https://github.com/fanzeyi/pokemon.json/blob/master/images/056.png?raw=true"
+    "image": "https://github.com/TimeeRox/database/blob/main/Sprites/056.png?raw=true"
   },
   {
     "name": "Colossinge",
-    "image": "https://github.com/fanzeyi/pokemon.json/blob/master/images/057.png?raw=true"
+    "image": "https://github.com/TimeeRox/database/blob/main/Sprites/057.png?raw=true"
   },
   {
     "name": "Caninos",
-    "image": "https://github.com/fanzeyi/pokemon.json/blob/master/images/058.png?raw=true"
+    "image": "https://github.com/TimeeRox/database/blob/main/Sprites/058.png?raw=true"
   },
   {
     "name": "Arcanin",
-    "image": "https://github.com/fanzeyi/pokemon.json/blob/master/images/059.png?raw=true"
+    "image": "https://github.com/TimeeRox/database/blob/main/Sprites/059.png?raw=true"
   },
   {
     "name": "Ptitard",
-    "image": "https://github.com/fanzeyi/pokemon.json/blob/master/images/060.png?raw=true"
+    "image": "https://github.com/TimeeRox/database/blob/main/Sprites/060.png?raw=true"
   },
   {
     "name": "Têtarte",
-    "image": "https://github.com/fanzeyi/pokemon.json/blob/master/images/061.png?raw=true"
+    "image": "https://github.com/TimeeRox/database/blob/main/Sprites/061.png?raw=true"
   },
   {
     "name": "Tartard",
-    "image": "https://github.com/fanzeyi/pokemon.json/blob/master/images/062.png?raw=true"
+    "image": "https://github.com/TimeeRox/database/blob/main/Sprites/062.png?raw=true"
   },
   {
     "name": "Abra",
-    "image": "https://github.com/fanzeyi/pokemon.json/blob/master/images/063.png?raw=true"
+    "image": "https://github.com/TimeeRox/database/blob/main/Sprites/063.png?raw=true"
   },
   {
     "name": "Kadabra",
-    "image": "https://github.com/fanzeyi/pokemon.json/blob/master/images/064.png?raw=true"
+    "image": "https://github.com/TimeeRox/database/blob/main/Sprites/064.png?raw=true"
   },
   {
     "name": "Alakazam",
-    "image": "https://github.com/fanzeyi/pokemon.json/blob/master/images/065.png?raw=true"
+    "image": "https://github.com/TimeeRox/database/blob/main/Sprites/065.png?raw=true"
   },
   {
     "name": "Macho",
-    "image": "https://github.com/fanzeyi/pokemon.json/blob/master/images/066.png?raw=true"
+    "image": "https://github.com/TimeeRox/database/blob/main/Sprites/066.png?raw=true"
   },
   {
     "name": "Machopeur",
-    "image": "https://github.com/fanzeyi/pokemon.json/blob/master/images/067.png?raw=true"
+    "image": "https://github.com/TimeeRox/database/blob/main/Sprites/067.png?raw=true"
   },
   {
     "name": "Mackogneur",
-    "image": "https://github.com/fanzeyi/pokemon.json/blob/master/images/068.png?raw=true"
+    "image": "https://github.com/TimeeRox/database/blob/main/Sprites/068.png?raw=true"
   },
   {
     "name": "Chétiflor",
-    "image": "https://github.com/fanzeyi/pokemon.json/blob/master/images/069.png?raw=true"
+    "image": "https://github.com/TimeeRox/database/blob/main/Sprites/069.png?raw=true"
   },
   {
     "name": "Boustiflor",
-    "image": "https://github.com/fanzeyi/pokemon.json/blob/master/images/070.png?raw=true"
+    "image": "https://github.com/TimeeRox/database/blob/main/Sprites/070.png?raw=true"
   },
   {
     "name": "Empiflor",
-    "image": "https://github.com/fanzeyi/pokemon.json/blob/master/images/071.png?raw=true"
+    "image": "https://github.com/TimeeRox/database/blob/main/Sprites/071.png?raw=true"
   },
   {
     "name": "Tentacool",
-    "image": "https://github.com/fanzeyi/pokemon.json/blob/master/images/072.png?raw=true"
+    "image": "https://github.com/TimeeRox/database/blob/main/Sprites/072.png?raw=true"
   },
   {
     "name": "Tentacruel",
-    "image": "https://github.com/fanzeyi/pokemon.json/blob/master/images/073.png?raw=true"
+    "image": "https://github.com/TimeeRox/database/blob/main/Sprites/073.png?raw=true"
   },
   {
     "name": "Racaillou",
-    "image": "https://github.com/fanzeyi/pokemon.json/blob/master/images/074.png?raw=true"
+    "image": "https://github.com/TimeeRox/database/blob/main/Sprites/074.png?raw=true"
   },
   {
     "name": "Gravalanch",
-    "image": "https://github.com/fanzeyi/pokemon.json/blob/master/images/075.png?raw=true"
+    "image": "https://github.com/TimeeRox/database/blob/main/Sprites/075.png?raw=true"
   },
   {
     "name": "Grolem",
-    "image": "https://github.com/fanzeyi/pokemon.json/blob/master/images/076.png?raw=true"
+    "image": "https://github.com/TimeeRox/database/blob/main/Sprites/076.png?raw=true"
   },
   {
     "name": "Ponyta",
-    "image": "https://github.com/fanzeyi/pokemon.json/blob/master/images/077.png?raw=true"
+    "image": "https://github.com/TimeeRox/database/blob/main/Sprites/077.png?raw=true"
   },
   {
     "name": "Galopa",
-    "image": "https://github.com/fanzeyi/pokemon.json/blob/master/images/078.png?raw=true"
+    "image": "https://github.com/TimeeRox/database/blob/main/Sprites/078.png?raw=true"
   },
   {
     "name": "Ramoloss",
-    "image": "https://github.com/fanzeyi/pokemon.json/blob/master/images/079.png?raw=true"
+    "image": "https://github.com/TimeeRox/database/blob/main/Sprites/079.png?raw=true"
   },
   {
     "name": "Flagadoss",
-    "image": "https://github.com/fanzeyi/pokemon.json/blob/master/images/080.png?raw=true"
+    "image": "https://github.com/TimeeRox/database/blob/main/Sprites/080.png?raw=true"
   },
   {
     "name": "Magnéti",
-    "image": "https://github.com/fanzeyi/pokemon.json/blob/master/images/081.png?raw=true"
+    "image": "https://github.com/TimeeRox/database/blob/main/Sprites/081.png?raw=true"
   },
   {
     "name": "Magnéton",
-    "image": "https://github.com/fanzeyi/pokemon.json/blob/master/images/082.png?raw=true"
+    "image": "https://github.com/TimeeRox/database/blob/main/Sprites/082.png?raw=true"
   },
   {
     "name": "Canarticho",
-    "image": "https://github.com/fanzeyi/pokemon.json/blob/master/images/083.png?raw=true"
+    "image": "https://github.com/TimeeRox/database/blob/main/Sprites/083.png?raw=true"
   },
   {
     "name": "Doduo",
-    "image": "https://github.com/fanzeyi/pokemon.json/blob/master/images/084.png?raw=true"
+    "image": "https://github.com/TimeeRox/database/blob/main/Sprites/084.png?raw=true"
   },
   {
     "name": "Dodrio",
-    "image": "https://github.com/fanzeyi/pokemon.json/blob/master/images/085.png?raw=true"
+    "image": "https://github.com/TimeeRox/database/blob/main/Sprites/085.png?raw=true"
   },
   {
     "name": "Otaria",
-    "image": "https://github.com/fanzeyi/pokemon.json/blob/master/images/086.png?raw=true"
+    "image": "https://github.com/TimeeRox/database/blob/main/Sprites/086.png?raw=true"
   },
   {
     "name": "Lamantine",
-    "image": "https://github.com/fanzeyi/pokemon.json/blob/master/images/087.png?raw=true"
+    "image": "https://github.com/TimeeRox/database/blob/main/Sprites/087.png?raw=true"
   },
   {
     "name": "Tadmorv",
-    "image": "https://github.com/fanzeyi/pokemon.json/blob/master/images/088.png?raw=true"
+    "image": "https://github.com/TimeeRox/database/blob/main/Sprites/088.png?raw=true"
   },
   {
     "name": "Grotadmorv",
-    "image": "https://github.com/fanzeyi/pokemon.json/blob/master/images/089.png?raw=true"
+    "image": "https://github.com/TimeeRox/database/blob/main/Sprites/089.png?raw=true"
   },
   {
     "name": "Kokiyas",
-    "image": "https://github.com/fanzeyi/pokemon.json/blob/master/images/090.png?raw=true"
+    "image": "https://github.com/TimeeRox/database/blob/main/Sprites/090.png?raw=true"
   },
   {
     "name": "Crustabri",
-    "image": "https://github.com/fanzeyi/pokemon.json/blob/master/images/091.png?raw=true"
+    "image": "https://github.com/TimeeRox/database/blob/main/Sprites/091.png?raw=true"
   },
   {
     "name": "Fantominus",
-    "image": "https://github.com/fanzeyi/pokemon.json/blob/master/images/092.png?raw=true"
+    "image": "https://github.com/TimeeRox/database/blob/main/Sprites/092.png?raw=true"
   },
   {
     "name": "Spectrum",
-    "image": "https://github.com/fanzeyi/pokemon.json/blob/master/images/093.png?raw=true"
+    "image": "https://github.com/TimeeRox/database/blob/main/Sprites/093.png?raw=true"
   },
   {
     "name": "Ectoplasma",
-    "image": "https://github.com/fanzeyi/pokemon.json/blob/master/images/094.png?raw=true"
+    "image": "https://github.com/TimeeRox/database/blob/main/Sprites/094.png?raw=true"
   },
   {
     "name": "Onix",
-    "image": "https://github.com/fanzeyi/pokemon.json/blob/master/images/095.png?raw=true"
+    "image": "https://github.com/TimeeRox/database/blob/main/Sprites/095.png?raw=true"
   },
   {
     "name": "Soporifik",
-    "image": "https://github.com/fanzeyi/pokemon.json/blob/master/images/096.png?raw=true"
+    "image": "https://github.com/TimeeRox/database/blob/main/Sprites/096.png?raw=true"
   },
   {
     "name": "Hypnomade",
-    "image": "https://github.com/fanzeyi/pokemon.json/blob/master/images/097.png?raw=true"
+    "image": "https://github.com/TimeeRox/database/blob/main/Sprites/097.png?raw=true"
   },
   {
     "name": "Krabby",
-    "image": "https://github.com/fanzeyi/pokemon.json/blob/master/images/098.png?raw=true"
+    "image": "https://github.com/TimeeRox/database/blob/main/Sprites/098.png?raw=true"
   },
   {
     "name": "Krabboss",
-    "image": "https://github.com/fanzeyi/pokemon.json/blob/master/images/099.png?raw=true"
+    "image": "https://github.com/TimeeRox/database/blob/main/Sprites/099.png?raw=true"
   },
   {
     "name": "Voltorbe",
-    "image": "https://github.com/fanzeyi/pokemon.json/blob/master/images/100.png?raw=true"
+    "image": "https://github.com/TimeeRox/database/blob/main/Sprites/100.png?raw=true"
   },
   {
     "name": "Électrode",
-    "image": "https://github.com/fanzeyi/pokemon.json/blob/master/images/101.png?raw=true"
+    "image": "https://github.com/TimeeRox/database/blob/main/Sprites/101.png?raw=true"
   },
   {
     "name": "Noeunoeuf",
-    "image": "https://github.com/fanzeyi/pokemon.json/blob/master/images/102.png?raw=true"
+    "image": "https://github.com/TimeeRox/database/blob/main/Sprites/102.png?raw=true"
   },
   {
     "name": "Noadkoko",
-    "image": "https://github.com/fanzeyi/pokemon.json/blob/master/images/103.png?raw=true"
+    "image": "https://github.com/TimeeRox/database/blob/main/Sprites/103.png?raw=true"
   },
   {
     "name": "Osselait",
-    "image": "https://github.com/fanzeyi/pokemon.json/blob/master/images/104.png?raw=true"
+    "image": "https://github.com/TimeeRox/database/blob/main/Sprites/104.png?raw=true"
   },
   {
     "name": "Ossatueur",
-    "image": "https://github.com/fanzeyi/pokemon.json/blob/master/images/105.png?raw=true"
+    "image": "https://github.com/TimeeRox/database/blob/main/Sprites/105.png?raw=true"
   },
   {
     "name": "Kicklee",
-    "image": "https://github.com/fanzeyi/pokemon.json/blob/master/images/106.png?raw=true"
+    "image": "https://github.com/TimeeRox/database/blob/main/Sprites/106.png?raw=true"
   },
   {
     "name": "Tygnon",
-    "image": "https://github.com/fanzeyi/pokemon.json/blob/master/images/107.png?raw=true"
+    "image": "https://github.com/TimeeRox/database/blob/main/Sprites/107.png?raw=true"
   },
   {
     "name": "Excelangue",
-    "image": "https://github.com/fanzeyi/pokemon.json/blob/master/images/108.png?raw=true"
+    "image": "https://github.com/TimeeRox/database/blob/main/Sprites/108.png?raw=true"
   },
   {
     "name": "Smogo",
-    "image": "https://github.com/fanzeyi/pokemon.json/blob/master/images/109.png?raw=true"
+    "image": "https://github.com/TimeeRox/database/blob/main/Sprites/109.png?raw=true"
   },
   {
     "name": "Smogogo",
-    "image": "https://github.com/fanzeyi/pokemon.json/blob/master/images/110.png?raw=true"
+    "image": "https://github.com/TimeeRox/database/blob/main/Sprites/110.png?raw=true"
   },
   {
     "name": "Rhinocorne",
-    "image": "https://github.com/fanzeyi/pokemon.json/blob/master/images/111.png?raw=true"
+    "image": "https://github.com/TimeeRox/database/blob/main/Sprites/111.png?raw=true"
   },
   {
     "name": "Rhinoféros",
-    "image": "https://github.com/fanzeyi/pokemon.json/blob/master/images/112.png?raw=true"
+    "image": "https://github.com/TimeeRox/database/blob/main/Sprites/112.png?raw=true"
   },
   {
     "name": "Leveinard",
-    "image": "https://github.com/fanzeyi/pokemon.json/blob/master/images/113.png?raw=true"
+    "image": "https://github.com/TimeeRox/database/blob/main/Sprites/113.png?raw=true"
   },
   {
     "name": "Saquedeneu",
-    "image": "https://github.com/fanzeyi/pokemon.json/blob/master/images/114.png?raw=true"
+    "image": "https://github.com/TimeeRox/database/blob/main/Sprites/114.png?raw=true"
   },
   {
     "name": "Kangourex",
-    "image": "https://github.com/fanzeyi/pokemon.json/blob/master/images/115.png?raw=true"
+    "image": "https://github.com/TimeeRox/database/blob/main/Sprites/115.png?raw=true"
   },
   {
     "name": "Hypotrempe",
-    "image": "https://github.com/fanzeyi/pokemon.json/blob/master/images/116.png?raw=true"
+    "image": "https://github.com/TimeeRox/database/blob/main/Sprites/116.png?raw=true"
   },
   {
     "name": "Hypocéan",
-    "image": "https://github.com/fanzeyi/pokemon.json/blob/master/images/117.png?raw=true"
+    "image": "https://github.com/TimeeRox/database/blob/main/Sprites/117.png?raw=true"
   },
   {
     "name": "Poissirène",
-    "image": "https://github.com/fanzeyi/pokemon.json/blob/master/images/118.png?raw=true"
+    "image": "https://github.com/TimeeRox/database/blob/main/Sprites/118.png?raw=true"
   },
   {
     "name": "Poissoroy",
-    "image": "https://github.com/fanzeyi/pokemon.json/blob/master/images/119.png?raw=true"
+    "image": "https://github.com/TimeeRox/database/blob/main/Sprites/119.png?raw=true"
   },
   {
     "name": "Stari",
-    "image": "https://github.com/fanzeyi/pokemon.json/blob/master/images/120.png?raw=true"
+    "image": "https://github.com/TimeeRox/database/blob/main/Sprites/120.png?raw=true"
   },
   {
     "name": "Staross",
-    "image": "https://github.com/fanzeyi/pokemon.json/blob/master/images/121.png?raw=true"
+    "image": "https://github.com/TimeeRox/database/blob/main/Sprites/121.png?raw=true"
   },
   {
     "name": "M. Mime",
-    "image": "https://github.com/fanzeyi/pokemon.json/blob/master/images/122.png?raw=true"
+    "image": "https://github.com/TimeeRox/database/blob/main/Sprites/122.png?raw=true"
   },
   {
     "name": "Insécateur",
-    "image": "https://github.com/fanzeyi/pokemon.json/blob/master/images/123.png?raw=true"
+    "image": "https://github.com/TimeeRox/database/blob/main/Sprites/123.png?raw=true"
   },
   {
     "name": "Lippoutou",
-    "image": "https://github.com/fanzeyi/pokemon.json/blob/master/images/124.png?raw=true"
+    "image": "https://github.com/TimeeRox/database/blob/main/Sprites/124.png?raw=true"
   },
   {
     "name": "Élektek",
-    "image": "https://github.com/fanzeyi/pokemon.json/blob/master/images/125.png?raw=true"
+    "image": "https://github.com/TimeeRox/database/blob/main/Sprites/125.png?raw=true"
   },
   {
     "name": "Magmar",
-    "image": "https://github.com/fanzeyi/pokemon.json/blob/master/images/126.png?raw=true"
+    "image": "https://github.com/TimeeRox/database/blob/main/Sprites/126.png?raw=true"
   },
   {
     "name": "Scarabrute",
-    "image": "https://github.com/fanzeyi/pokemon.json/blob/master/images/127.png?raw=true"
+    "image": "https://github.com/TimeeRox/database/blob/main/Sprites/127.png?raw=true"
   },
   {
     "name": "Tauros",
-    "image": "https://github.com/fanzeyi/pokemon.json/blob/master/images/128.png?raw=true"
+    "image": "https://github.com/TimeeRox/database/blob/main/Sprites/128.png?raw=true"
   },
   {
     "name": "Magicarpe",
-    "image": "https://github.com/fanzeyi/pokemon.json/blob/master/images/129.png?raw=true"
+    "image": "https://github.com/TimeeRox/database/blob/main/Sprites/129.png?raw=true"
   },
   {
     "name": "Léviator",
-    "image": "https://github.com/fanzeyi/pokemon.json/blob/master/images/130.png?raw=true"
+    "image": "https://github.com/TimeeRox/database/blob/main/Sprites/130.png?raw=true"
   },
   {
     "name": "Lokhlass",
-    "image": "https://github.com/fanzeyi/pokemon.json/blob/master/images/131.png?raw=true"
+    "image": "https://github.com/TimeeRox/database/blob/main/Sprites/131.png?raw=true"
   },
   {
     "name": "Métamorph",
-    "image": "https://github.com/fanzeyi/pokemon.json/blob/master/images/132.png?raw=true"
+    "image": "https://github.com/TimeeRox/database/blob/main/Sprites/132.png?raw=true"
   },
   {
     "name": "Évoli",
-    "image": "https://github.com/fanzeyi/pokemon.json/blob/master/images/133.png?raw=true"
+    "image": "https://github.com/TimeeRox/database/blob/main/Sprites/133.png?raw=true"
   },
   {
     "name": "Aquali",
-    "image": "https://github.com/fanzeyi/pokemon.json/blob/master/images/134.png?raw=true"
+    "image": "https://github.com/TimeeRox/database/blob/main/Sprites/134.png?raw=true"
   },
   {
     "name": "Voltali",
-    "image": "https://github.com/fanzeyi/pokemon.json/blob/master/images/135.png?raw=true"
+    "image": "https://github.com/TimeeRox/database/blob/main/Sprites/135.png?raw=true"
   },
   {
     "name": "Pyroli",
-    "image": "https://github.com/fanzeyi/pokemon.json/blob/master/images/136.png?raw=true"
+    "image": "https://github.com/TimeeRox/database/blob/main/Sprites/136.png?raw=true"
   },
   {
     "name": "Porygon",
-    "image": "https://github.com/fanzeyi/pokemon.json/blob/master/images/137.png?raw=true"
+    "image": "https://github.com/TimeeRox/database/blob/main/Sprites/137.png?raw=true"
   },
   {
     "name": "Amonita",
-    "image": "https://github.com/fanzeyi/pokemon.json/blob/master/images/138.png?raw=true"
+    "image": "https://github.com/TimeeRox/database/blob/main/Sprites/138.png?raw=true"
   },
   {
     "name": "Amonistar",
-    "image": "https://github.com/fanzeyi/pokemon.json/blob/master/images/139.png?raw=true"
+    "image": "https://github.com/TimeeRox/database/blob/main/Sprites/139.png?raw=true"
   },
   {
     "name": "Kabuto",
-    "image": "https://github.com/fanzeyi/pokemon.json/blob/master/images/140.png?raw=true"
+    "image": "https://github.com/TimeeRox/database/blob/main/Sprites/140.png?raw=true"
   },
   {
     "name": "Kabutops",
-    "image": "https://github.com/fanzeyi/pokemon.json/blob/master/images/141.png?raw=true"
+    "image": "https://github.com/TimeeRox/database/blob/main/Sprites/141.png?raw=true"
   },
   {
     "name": "Ptéra",
-    "image": "https://github.com/fanzeyi/pokemon.json/blob/master/images/142.png?raw=true"
+    "image": "https://github.com/TimeeRox/database/blob/main/Sprites/142.png?raw=true"
   },
   {
     "name": "Ronflex",
-    "image": "https://github.com/fanzeyi/pokemon.json/blob/master/images/143.png?raw=true"
+    "image": "https://github.com/TimeeRox/database/blob/main/Sprites/143.png?raw=true"
   },
   {
     "name": "Artikodin",
-    "image": "https://github.com/fanzeyi/pokemon.json/blob/master/images/144.png?raw=true"
+    "image": "https://github.com/TimeeRox/database/blob/main/Sprites/144.png?raw=true"
   },
   {
     "name": "Électhor",
-    "image": "https://github.com/fanzeyi/pokemon.json/blob/master/images/145.png?raw=true"
+    "image": "https://github.com/TimeeRox/database/blob/main/Sprites/145.png?raw=true"
   },
   {
     "name": "Sulfura",
-    "image": "https://github.com/fanzeyi/pokemon.json/blob/master/images/146.png?raw=true"
+    "image": "https://github.com/TimeeRox/database/blob/main/Sprites/146.png?raw=true"
   },
   {
     "name": "Minidraco",
-    "image": "https://github.com/fanzeyi/pokemon.json/blob/master/images/147.png?raw=true"
+    "image": "https://github.com/TimeeRox/database/blob/main/Sprites/147.png?raw=true"
   },
   {
     "name": "Draco",
-    "image": "https://github.com/fanzeyi/pokemon.json/blob/master/images/148.png?raw=true"
+    "image": "https://github.com/TimeeRox/database/blob/main/Sprites/148.png?raw=true"
   },
   {
     "name": "Dracolosse",
-    "image": "https://github.com/fanzeyi/pokemon.json/blob/master/images/149.png?raw=true"
+    "image": "https://github.com/TimeeRox/database/blob/main/Sprites/149.png?raw=true"
   },
   {
     "name": "Mewtwo",
-    "image": "https://github.com/fanzeyi/pokemon.json/blob/master/images/150.png?raw=true"
+    "image": "https://github.com/TimeeRox/database/blob/main/Sprites/150.png?raw=true"
   },
   {
     "name": "Mew",
-    "image": "https://github.com/fanzeyi/pokemon.json/blob/master/images/151.png?raw=true"
+    "image": "https://github.com/TimeeRox/database/blob/main/Sprites/151.png?raw=true"
   },
   {
     "name": "Germignon",
