@@ -4385,6 +4385,10 @@
   },
   {
     "name": "Flagadoss",
+    "image": "https://github.com/TimeeRox/database/blob/main/SpritesShiny1G/080MS.png?raw=true"
+  },
+  {
+    "name": "Flagadoss",
     "image": "https://github.com/TimeeRox/database/blob/main/SpritesShiny1G/080GS.png?raw=true"
   },
   {
@@ -4632,6 +4636,10 @@
     "image": "https://github.com/TimeeRox/database/blob/main/SpritesShiny1G/130S.png?raw=true"
   },
   {
+    "name": "Léviator",
+    "image": "https://github.com/TimeeRox/database/blob/main/SpritesShiny1G/130MS.png?raw=true"
+  },
+  {
     "name": "Lokhlass",
     "image": "https://github.com/TimeeRox/database/blob/main/SpritesShiny1G/131S.png?raw=true"
   },
@@ -4704,12 +4712,24 @@
     "image": "https://github.com/TimeeRox/database/blob/main/SpritesShiny1G/144S.png?raw=true"
   },
   {
+    "name": "Artikodin",
+    "image": "https://github.com/TimeeRox/database/blob/main/SpritesShiny1G/144GS.png?raw=true"
+  },
+  {
     "name": "Électhor",
     "image": "https://github.com/TimeeRox/database/blob/main/SpritesShiny1G/145S.png?raw=true"
   },
   {
+    "name": "Électhor",
+    "image": "https://github.com/TimeeRox/database/blob/main/SpritesShiny1G/145GS.png?raw=true"
+  },
+  {
     "name": "Sulfura",
     "image": "https://github.com/TimeeRox/database/blob/main/SpritesShiny1G/146S.png?raw=true"
+  },
+  {
+    "name": "Sulfura",
+    "image": "https://github.com/TimeeRox/database/blob/main/SpritesShiny1G/146GS.png?raw=true"
   },
   {
     "name": "Minidraco",
