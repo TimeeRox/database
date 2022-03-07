@@ -1357,543 +1357,663 @@
   },
   {
     "name": "Arcko",
-    "image": "https://github.com/TimeeRox/database/blob/main/Sprites/252.png?raw=true"
+    "image": "https://github.com/TimeeRox/database/blob/main/Sprites3G/252.png?raw=true"
   },
   {
     "name": "Massko",
-    "image": "https://github.com/TimeeRox/database/blob/main/Sprites/253.png?raw=true"
+    "image": "https://github.com/TimeeRox/database/blob/main/Sprites3G/253.png?raw=true"
   },
   {
     "name": "Jungko",
-    "image": "https://github.com/TimeeRox/database/blob/main/Sprites/254.png?raw=true"
+    "image": "https://github.com/TimeeRox/database/blob/main/Sprites3G/254.png?raw=true"
+  },
+  {
+    "name": "Jungko",
+    "image": "https://github.com/TimeeRox/database/blob/main/Sprites3G/254M.png?raw=true"
   },
   {
     "name": "Poussifeu",
-    "image": "https://github.com/TimeeRox/database/blob/main/Sprites/255.png?raw=true"
+    "image": "https://github.com/TimeeRox/database/blob/main/Sprites3G/255.png?raw=true"
   },
   {
     "name": "Galifeu",
-    "image": "https://github.com/TimeeRox/database/blob/main/Sprites/256.png?raw=true"
+    "image": "https://github.com/TimeeRox/database/blob/main/Sprites3G/256.png?raw=true"
   },
   {
     "name": "Braségali",
-    "image": "https://github.com/TimeeRox/database/blob/main/Sprites/257.png?raw=true"
+    "image": "https://github.com/TimeeRox/database/blob/main/Sprites3G/257.png?raw=true"
+  },
+  {
+    "name": "Braségali",
+    "image": "https://github.com/TimeeRox/database/blob/main/Sprites3G/257M.png?raw=true"
   },
   {
     "name": "Gobou",
-    "image": "https://github.com/TimeeRox/database/blob/main/Sprites/258.png?raw=true"
+    "image": "https://github.com/TimeeRox/database/blob/main/Sprites3G/258.png?raw=true"
   },
   {
     "name": "Flobio",
-    "image": "https://github.com/TimeeRox/database/blob/main/Sprites/259.png?raw=true"
+    "image": "https://github.com/TimeeRox/database/blob/main/Sprites3G/259.png?raw=true"
   },
   {
     "name": "Laggron",
-    "image": "https://github.com/TimeeRox/database/blob/main/Sprites/260.png?raw=true"
+    "image": "https://github.com/TimeeRox/database/blob/main/Sprites3G/260.png?raw=true"
+  },
+  {
+    "name": "Laggron",
+    "image": "https://github.com/TimeeRox/database/blob/main/Sprites3G/260M.png?raw=true"
   },
   {
     "name": "Medhyèna",
-    "image": "https://github.com/TimeeRox/database/blob/main/Sprites/261.png?raw=true"
+    "image": "https://github.com/TimeeRox/database/blob/main/Sprites3G/261.png?raw=true"
   },
   {
     "name": "Grahyèna",
-    "image": "https://github.com/TimeeRox/database/blob/main/Sprites/262.png?raw=true"
+    "image": "https://github.com/TimeeRox/database/blob/main/Sprites3G/262.png?raw=true"
   },
   {
     "name": "Zigzaton",
-    "image": "https://github.com/TimeeRox/database/blob/main/Sprites/263.png?raw=true"
+    "image": "https://github.com/TimeeRox/database/blob/main/Sprites3G/263.png?raw=true"
+  },
+  {
+    "name": "Zigzaton",
+    "image": "https://github.com/TimeeRox/database/blob/main/Sprites3G/263G.png?raw=true"
   },
   {
     "name": "Linéon",
-    "image": "https://github.com/TimeeRox/database/blob/main/Sprites/264.png?raw=true"
+    "image": "https://github.com/TimeeRox/database/blob/main/Sprites3G/264.png?raw=true"
+  },
+  {
+    "name": "Linéon",
+    "image": "https://github.com/TimeeRox/database/blob/main/Sprites3G/264G.png?raw=true"
   },
   {
     "name": "Chenipotte",
-    "image": "https://github.com/TimeeRox/database/blob/main/Sprites/265.png?raw=true"
+    "image": "https://github.com/TimeeRox/database/blob/main/Sprites3G/265.png?raw=true"
   },
   {
     "name": "Armulys",
-    "image": "https://github.com/TimeeRox/database/blob/main/Sprites/266.png?raw=true"
+    "image": "https://github.com/TimeeRox/database/blob/main/Sprites3G/266.png?raw=true"
   },
   {
     "name": "Charmillon",
-    "image": "https://github.com/TimeeRox/database/blob/main/Sprites/267.png?raw=true"
+    "image": "https://github.com/TimeeRox/database/blob/main/Sprites3G/267.png?raw=true"
   },
   {
     "name": "Blindalys",
-    "image": "https://github.com/TimeeRox/database/blob/main/Sprites/268.png?raw=true"
+    "image": "https://github.com/TimeeRox/database/blob/main/Sprites3G/268.png?raw=true"
   },
   {
     "name": "Papinox",
-    "image": "https://github.com/TimeeRox/database/blob/main/Sprites/269.png?raw=true"
+    "image": "https://github.com/TimeeRox/database/blob/main/Sprites3G/269.png?raw=true"
   },
   {
     "name": "Nénupiot",
-    "image": "https://github.com/TimeeRox/database/blob/main/Sprites/270.png?raw=true"
+    "image": "https://github.com/TimeeRox/database/blob/main/Sprites3G/270.png?raw=true"
   },
   {
     "name": "Lombre",
-    "image": "https://github.com/TimeeRox/database/blob/main/Sprites/271.png?raw=true"
+    "image": "https://github.com/TimeeRox/database/blob/main/Sprites3G/271.png?raw=true"
   },
   {
     "name": "Ludicolo",
-    "image": "https://github.com/TimeeRox/database/blob/main/Sprites/272.png?raw=true"
+    "image": "https://github.com/TimeeRox/database/blob/main/Sprites3G/272.png?raw=true"
   },
   {
     "name": "Grainipiot",
-    "image": "https://github.com/TimeeRox/database/blob/main/Sprites/273.png?raw=true"
+    "image": "https://github.com/TimeeRox/database/blob/main/Sprites3G/273.png?raw=true"
   },
   {
     "name": "Pifeuil",
-    "image": "https://github.com/TimeeRox/database/blob/main/Sprites/274.png?raw=true"
+    "image": "https://github.com/TimeeRox/database/blob/main/Sprites3G/274.png?raw=true"
   },
   {
     "name": "Tengalice",
-    "image": "https://github.com/TimeeRox/database/blob/main/Sprites/275.png?raw=true"
+    "image": "https://github.com/TimeeRox/database/blob/main/Sprites3G/275.png?raw=true"
   },
   {
     "name": "Nirondelle",
-    "image": "https://github.com/TimeeRox/database/blob/main/Sprites/276.png?raw=true"
+    "image": "https://github.com/TimeeRox/database/blob/main/Sprites3G/276.png?raw=true"
   },
   {
     "name": "Hélédelle",
-    "image": "https://github.com/TimeeRox/database/blob/main/Sprites/277.png?raw=true"
+    "image": "https://github.com/TimeeRox/database/blob/main/Sprites3G/277.png?raw=true"
   },
   {
     "name": "Goélise",
-    "image": "https://github.com/TimeeRox/database/blob/main/Sprites/278.png?raw=true"
+    "image": "https://github.com/TimeeRox/database/blob/main/Sprites3G/278.png?raw=true"
   },
   {
     "name": "Bekipan",
-    "image": "https://github.com/TimeeRox/database/blob/main/Sprites/279.png?raw=true"
+    "image": "https://github.com/TimeeRox/database/blob/main/Sprites3G/279.png?raw=true"
   },
   {
     "name": "Tarsal",
-    "image": "https://github.com/TimeeRox/database/blob/main/Sprites/280.png?raw=true"
+    "image": "https://github.com/TimeeRox/database/blob/main/Sprites3G/280.png?raw=true"
   },
   {
     "name": "Kirlia",
-    "image": "https://github.com/TimeeRox/database/blob/main/Sprites/281.png?raw=true"
+    "image": "https://github.com/TimeeRox/database/blob/main/Sprites3G/281.png?raw=true"
   },
   {
     "name": "Gardevoir",
-    "image": "https://github.com/TimeeRox/database/blob/main/Sprites/282.png?raw=true"
+    "image": "https://github.com/TimeeRox/database/blob/main/Sprites3G/282.png?raw=true"
+  },
+  {
+    "name": "Gardevoir",
+    "image": "https://github.com/TimeeRox/database/blob/main/Sprites3G/282M.png?raw=true"
   },
   {
     "name": "Arakdo",
-    "image": "https://github.com/TimeeRox/database/blob/main/Sprites/283.png?raw=true"
+    "image": "https://github.com/TimeeRox/database/blob/main/Sprites3G/283.png?raw=true"
   },
   {
     "name": "Maskadra",
-    "image": "https://github.com/TimeeRox/database/blob/main/Sprites/284.png?raw=true"
+    "image": "https://github.com/TimeeRox/database/blob/main/Sprites3G/284.png?raw=true"
   },
   {
     "name": "Balignon",
-    "image": "https://github.com/TimeeRox/database/blob/main/Sprites/285.png?raw=true"
+    "image": "https://github.com/TimeeRox/database/blob/main/Sprites3G/285.png?raw=true"
   },
   {
     "name": "Chapignon",
-    "image": "https://github.com/TimeeRox/database/blob/main/Sprites/286.png?raw=true"
+    "image": "https://github.com/TimeeRox/database/blob/main/Sprites3G/286.png?raw=true"
   },
   {
     "name": "Parecool",
-    "image": "https://github.com/TimeeRox/database/blob/main/Sprites/287.png?raw=true"
+    "image": "https://github.com/TimeeRox/database/blob/main/Sprites3G/287.png?raw=true"
   },
   {
     "name": "Vigoroth",
-    "image": "https://github.com/TimeeRox/database/blob/main/Sprites/288.png?raw=true"
+    "image": "https://github.com/TimeeRox/database/blob/main/Sprites3G/288.png?raw=true"
   },
   {
     "name": "Monaflèmit",
-    "image": "https://github.com/TimeeRox/database/blob/main/Sprites/289.png?raw=true"
+    "image": "https://github.com/TimeeRox/database/blob/main/Sprites3G/289.png?raw=true"
   },
   {
     "name": "Ningale",
-    "image": "https://github.com/TimeeRox/database/blob/main/Sprites/290.png?raw=true"
+    "image": "https://github.com/TimeeRox/database/blob/main/Sprites3G/290.png?raw=true"
   },
   {
     "name": "Ninjask",
-    "image": "https://github.com/TimeeRox/database/blob/main/Sprites/291.png?raw=true"
+    "image": "https://github.com/TimeeRox/database/blob/main/Sprites3G/291.png?raw=true"
   },
   {
     "name": "Munja",
-    "image": "https://github.com/TimeeRox/database/blob/main/Sprites/292.png?raw=true"
+    "image": "https://github.com/TimeeRox/database/blob/main/Sprites3G/292.png?raw=true"
   },
   {
     "name": "Chuchmur",
-    "image": "https://github.com/TimeeRox/database/blob/main/Sprites/293.png?raw=true"
+    "image": "https://github.com/TimeeRox/database/blob/main/Sprites3G/293.png?raw=true"
   },
   {
     "name": "Ramboum",
-    "image": "https://github.com/TimeeRox/database/blob/main/Sprites/294.png?raw=true"
+    "image": "https://github.com/TimeeRox/database/blob/main/Sprites3G/294.png?raw=true"
   },
   {
     "name": "Brouhabam",
-    "image": "https://github.com/TimeeRox/database/blob/main/Sprites/295.png?raw=true"
+    "image": "https://github.com/TimeeRox/database/blob/main/Sprites3G/295.png?raw=true"
   },
   {
     "name": "Makuhita",
-    "image": "https://github.com/TimeeRox/database/blob/main/Sprites/296.png?raw=true"
+    "image": "https://github.com/TimeeRox/database/blob/main/Sprites3G/296.png?raw=true"
   },
   {
     "name": "Hariyama",
-    "image": "https://github.com/TimeeRox/database/blob/main/Sprites/297.png?raw=true"
+    "image": "https://github.com/TimeeRox/database/blob/main/Sprites3G/297.png?raw=true"
   },
   {
     "name": "Azurill",
-    "image": "https://github.com/TimeeRox/database/blob/main/Sprites/298.png?raw=true"
+    "image": "https://github.com/TimeeRox/database/blob/main/Sprites3G/298.png?raw=true"
   },
   {
     "name": "Tarinor",
-    "image": "https://github.com/TimeeRox/database/blob/main/Sprites/299.png?raw=true"
+    "image": "https://github.com/TimeeRox/database/blob/main/Sprites3G/299.png?raw=true"
   },
   {
     "name": "Skitty",
-    "image": "https://github.com/TimeeRox/database/blob/main/Sprites/300.png?raw=true"
+    "image": "https://github.com/TimeeRox/database/blob/main/Sprites3G/300.png?raw=true"
   },
   {
     "name": "Delcatty",
-    "image": "https://github.com/TimeeRox/database/blob/main/Sprites/301.png?raw=true"
+    "image": "https://github.com/TimeeRox/database/blob/main/Sprites3G/301.png?raw=true"
   },
   {
     "name": "Ténéfix",
-    "image": "https://github.com/TimeeRox/database/blob/main/Sprites/302.png?raw=true"
+    "image": "https://github.com/TimeeRox/database/blob/main/Sprites3G/302.png?raw=true"
+  },
+  {
+    "name": "Ténéfix",
+    "image": "https://github.com/TimeeRox/database/blob/main/Sprites3G/302M.png?raw=true"
   },
   {
     "name": "Mysdibule",
-    "image": "https://github.com/TimeeRox/database/blob/main/Sprites/303.png?raw=true"
+    "image": "https://github.com/TimeeRox/database/blob/main/Sprites3G/303.png?raw=true"
+  },
+  {
+    "name": "Mysdibule",
+    "image": "https://github.com/TimeeRox/database/blob/main/Sprites3G/303M.png?raw=true"
   },
   {
     "name": "Galekid",
-    "image": "https://github.com/TimeeRox/database/blob/main/Sprites/304.png?raw=true"
+    "image": "https://github.com/TimeeRox/database/blob/main/Sprites3G/304.png?raw=true"
   },
   {
     "name": "Galegon",
-    "image": "https://github.com/TimeeRox/database/blob/main/Sprites/305.png?raw=true"
+    "image": "https://github.com/TimeeRox/database/blob/main/Sprites3G/305.png?raw=true"
   },
   {
     "name": "Galeking",
-    "image": "https://github.com/TimeeRox/database/blob/main/Sprites/306.png?raw=true"
+    "image": "https://github.com/TimeeRox/database/blob/main/Sprites3G/306.png?raw=true"
+  },
+  {
+    "name": "Galeking",
+    "image": "https://github.com/TimeeRox/database/blob/main/Sprites3G/306M.png?raw=true"
   },
   {
     "name": "Méditikka",
-    "image": "https://github.com/TimeeRox/database/blob/main/Sprites/307.png?raw=true"
+    "image": "https://github.com/TimeeRox/database/blob/main/Sprites3G/307.png?raw=true"
   },
   {
     "name": "Charmina",
-    "image": "https://github.com/TimeeRox/database/blob/main/Sprites/308.png?raw=true"
+    "image": "https://github.com/TimeeRox/database/blob/main/Sprites3G/308.png?raw=true"
+  },
+  {
+    "name": "Charmina",
+    "image": "https://github.com/TimeeRox/database/blob/main/Sprites3G/308M.png?raw=true"
   },
   {
     "name": "Dynavolt",
-    "image": "https://github.com/TimeeRox/database/blob/main/Sprites/309.png?raw=true"
+    "image": "https://github.com/TimeeRox/database/blob/main/Sprites3G/309.png?raw=true"
   },
   {
     "name": "Élecsprint",
-    "image": "https://github.com/TimeeRox/database/blob/main/Sprites/310.png?raw=true"
+    "image": "https://github.com/TimeeRox/database/blob/main/Sprites3G/310.png?raw=true"
+  },
+  {
+    "name": "Élecsprint",
+    "image": "https://github.com/TimeeRox/database/blob/main/Sprites3G/310M.png?raw=true"
   },
   {
     "name": "Posipi",
-    "image": "https://github.com/TimeeRox/database/blob/main/Sprites/311.png?raw=true"
+    "image": "https://github.com/TimeeRox/database/blob/main/Sprites3G/311.png?raw=true"
   },
   {
     "name": "Négapi",
-    "image": "https://github.com/TimeeRox/database/blob/main/Sprites/312.png?raw=true"
+    "image": "https://github.com/TimeeRox/database/blob/main/Sprites3G/312.png?raw=true"
   },
   {
     "name": "Muciole",
-    "image": "https://github.com/TimeeRox/database/blob/main/Sprites/313.png?raw=true"
+    "image": "https://github.com/TimeeRox/database/blob/main/Sprites3G/313.png?raw=true"
   },
   {
     "name": "Lumivole",
-    "image": "https://github.com/TimeeRox/database/blob/main/Sprites/314.png?raw=true"
+    "image": "https://github.com/TimeeRox/database/blob/main/Sprites3G/314.png?raw=true"
   },
   {
     "name": "Rosélia",
-    "image": "https://github.com/TimeeRox/database/blob/main/Sprites/315.png?raw=true"
+    "image": "https://github.com/TimeeRox/database/blob/main/Sprites3G/315.png?raw=true"
   },
   {
     "name": "Gloupti",
-    "image": "https://github.com/TimeeRox/database/blob/main/Sprites/316.png?raw=true"
+    "image": "https://github.com/TimeeRox/database/blob/main/Sprites3G/316.png?raw=true"
   },
   {
     "name": "Avaltout",
-    "image": "https://github.com/TimeeRox/database/blob/main/Sprites/317.png?raw=true"
+    "image": "https://github.com/TimeeRox/database/blob/main/Sprites3G/317.png?raw=true"
   },
   {
     "name": "Carvanha",
-    "image": "https://github.com/TimeeRox/database/blob/main/Sprites/318.png?raw=true"
+    "image": "https://github.com/TimeeRox/database/blob/main/Sprites3G/318.png?raw=true"
   },
   {
     "name": "Sharpedo",
-    "image": "https://github.com/TimeeRox/database/blob/main/Sprites/319.png?raw=true"
+    "image": "https://github.com/TimeeRox/database/blob/main/Sprites3G/319.png?raw=true"
+  },
+  {
+    "name": "Sharpedo",
+    "image": "https://github.com/TimeeRox/database/blob/main/Sprites3G/319M.png?raw=true"
   },
   {
     "name": "Wailmer",
-    "image": "https://github.com/TimeeRox/database/blob/main/Sprites/320.png?raw=true"
+    "image": "https://github.com/TimeeRox/database/blob/main/Sprites3G/320.png?raw=true"
   },
   {
     "name": "Wailord",
-    "image": "https://github.com/TimeeRox/database/blob/main/Sprites/321.png?raw=true"
+    "image": "https://github.com/TimeeRox/database/blob/main/Sprites3G/321.png?raw=true"
   },
   {
     "name": "Chamallot",
-    "image": "https://github.com/TimeeRox/database/blob/main/Sprites/322.png?raw=true"
+    "image": "https://github.com/TimeeRox/database/blob/main/Sprites3G/322.png?raw=true"
   },
   {
     "name": "Camérupt",
-    "image": "https://github.com/TimeeRox/database/blob/main/Sprites/323.png?raw=true"
+    "image": "https://github.com/TimeeRox/database/blob/main/Sprites3G/323.png?raw=true"
+  },
+  {
+    "name": "Camérupt",
+    "image": "https://github.com/TimeeRox/database/blob/main/Sprites3G/323M.png?raw=true"
   },
   {
     "name": "Chartor",
-    "image": "https://github.com/TimeeRox/database/blob/main/Sprites/324.png?raw=true"
+    "image": "https://github.com/TimeeRox/database/blob/main/Sprites3G/324.png?raw=true"
   },
   {
     "name": "Spoink",
-    "image": "https://github.com/TimeeRox/database/blob/main/Sprites/325.png?raw=true"
+    "image": "https://github.com/TimeeRox/database/blob/main/Sprites3G/325.png?raw=true"
   },
   {
     "name": "Groret",
-    "image": "https://github.com/TimeeRox/database/blob/main/Sprites/326.png?raw=true"
+    "image": "https://github.com/TimeeRox/database/blob/main/Sprites3G/326.png?raw=true"
   },
   {
     "name": "Spinda",
-    "image": "https://github.com/TimeeRox/database/blob/main/Sprites/327.png?raw=true"
+    "image": "https://github.com/TimeeRox/database/blob/main/Sprites3G/327.png?raw=true"
   },
   {
     "name": "Kraknoix",
-    "image": "https://github.com/TimeeRox/database/blob/main/Sprites/328.png?raw=true"
+    "image": "https://github.com/TimeeRox/database/blob/main/Sprites3G/328.png?raw=true"
   },
   {
     "name": "Vibraninf",
-    "image": "https://github.com/TimeeRox/database/blob/main/Sprites/329.png?raw=true"
+    "image": "https://github.com/TimeeRox/database/blob/main/Sprites3G/329.png?raw=true"
   },
   {
     "name": "Libégon",
-    "image": "https://github.com/TimeeRox/database/blob/main/Sprites/330.png?raw=true"
+    "image": "https://github.com/TimeeRox/database/blob/main/Sprites3G/330.png?raw=true"
   },
   {
     "name": "Cacnea",
-    "image": "https://github.com/TimeeRox/database/blob/main/Sprites/331.png?raw=true"
+    "image": "https://github.com/TimeeRox/database/blob/main/Sprites3G/331.png?raw=true"
   },
   {
     "name": "Cacturne",
-    "image": "https://github.com/TimeeRox/database/blob/main/Sprites/332.png?raw=true"
+    "image": "https://github.com/TimeeRox/database/blob/main/Sprites3G/332.png?raw=true"
   },
   {
     "name": "Tylton",
-    "image": "https://github.com/TimeeRox/database/blob/main/Sprites/333.png?raw=true"
+    "image": "https://github.com/TimeeRox/database/blob/main/Sprites3G/333.png?raw=true"
   },
   {
     "name": "Altaria",
-    "image": "https://github.com/TimeeRox/database/blob/main/Sprites/334.png?raw=true"
+    "image": "https://github.com/TimeeRox/database/blob/main/Sprites3G/334.png?raw=true"
+  },
+  {
+    "name": "Altaria",
+    "image": "https://github.com/TimeeRox/database/blob/main/Sprites3G/334M.png?raw=true"
   },
   {
     "name": "Mangriff",
-    "image": "https://github.com/TimeeRox/database/blob/main/Sprites/335.png?raw=true"
+    "image": "https://github.com/TimeeRox/database/blob/main/Sprites3G/335.png?raw=true"
   },
   {
     "name": "Séviper",
-    "image": "https://github.com/TimeeRox/database/blob/main/Sprites/336.png?raw=true"
+    "image": "https://github.com/TimeeRox/database/blob/main/Sprites3G/336.png?raw=true"
   },
   {
     "name": "Séléroc",
-    "image": "https://github.com/TimeeRox/database/blob/main/Sprites/337.png?raw=true"
+    "image": "https://github.com/TimeeRox/database/blob/main/Sprites3G/337.png?raw=true"
   },
   {
     "name": "Solaroc",
-    "image": "https://github.com/TimeeRox/database/blob/main/Sprites/338.png?raw=true"
+    "image": "https://github.com/TimeeRox/database/blob/main/Sprites3G/338.png?raw=true"
   },
   {
     "name": "Barloche",
-    "image": "https://github.com/TimeeRox/database/blob/main/Sprites/339.png?raw=true"
+    "image": "https://github.com/TimeeRox/database/blob/main/Sprites3G/339.png?raw=true"
   },
   {
     "name": "Barbicha",
-    "image": "https://github.com/TimeeRox/database/blob/main/Sprites/340.png?raw=true"
+    "image": "https://github.com/TimeeRox/database/blob/main/Sprites3G/340.png?raw=true"
   },
   {
     "name": "Écrapince",
-    "image": "https://github.com/TimeeRox/database/blob/main/Sprites/341.png?raw=true"
+    "image": "https://github.com/TimeeRox/database/blob/main/Sprites3G/341.png?raw=true"
   },
   {
     "name": "Colhomard",
-    "image": "https://github.com/TimeeRox/database/blob/main/Sprites/342.png?raw=true"
+    "image": "https://github.com/TimeeRox/database/blob/main/Sprites3G/342.png?raw=true"
   },
   {
     "name": "Balbuto",
-    "image": "https://github.com/TimeeRox/database/blob/main/Sprites/343.png?raw=true"
+    "image": "https://github.com/TimeeRox/database/blob/main/Sprites3G/343.png?raw=true"
   },
   {
     "name": "Kaorine",
-    "image": "https://github.com/TimeeRox/database/blob/main/Sprites/344.png?raw=true"
+    "image": "https://github.com/TimeeRox/database/blob/main/Sprites3G/344.png?raw=true"
   },
   {
     "name": "Lilia",
-    "image": "https://github.com/TimeeRox/database/blob/main/Sprites/345.png?raw=true"
+    "image": "https://github.com/TimeeRox/database/blob/main/Sprites3G/345.png?raw=true"
   },
   {
     "name": "Vacilys",
-    "image": "https://github.com/TimeeRox/database/blob/main/Sprites/346.png?raw=true"
+    "image": "https://github.com/TimeeRox/database/blob/main/Sprites3G/346.png?raw=true"
   },
   {
     "name": "Anorith",
-    "image": "https://github.com/TimeeRox/database/blob/main/Sprites/347.png?raw=true"
+    "image": "https://github.com/TimeeRox/database/blob/main/Sprites3G/347.png?raw=true"
   },
   {
     "name": "Armaldo",
-    "image": "https://github.com/TimeeRox/database/blob/main/Sprites/348.png?raw=true"
+    "image": "https://github.com/TimeeRox/database/blob/main/Sprites3G/348.png?raw=true"
   },
   {
     "name": "Barpau",
-    "image": "https://github.com/TimeeRox/database/blob/main/Sprites/349.png?raw=true"
+    "image": "https://github.com/TimeeRox/database/blob/main/Sprites3G/349.png?raw=true"
   },
   {
     "name": "Milobellus",
-    "image": "https://github.com/TimeeRox/database/blob/main/Sprites/350.png?raw=true"
+    "image": "https://github.com/TimeeRox/database/blob/main/Sprites3G/350.png?raw=true"
   },
   {
     "name": "Morphéo",
-    "image": "https://github.com/TimeeRox/database/blob/main/Sprites/351.png?raw=true"
+    "image": "https://github.com/TimeeRox/database/blob/main/Sprites3G/351.png?raw=true"
+  },
+  {
+    "name": "Morphéo",
+    "image": "https://github.com/TimeeRox/database/blob/main/Sprites3G/351SOLEIL.png?raw=true"
+  },
+  {
+    "name": "Morphéo",
+    "image": "https://github.com/TimeeRox/database/blob/main/Sprites3G/351PLUIE.png?raw=true"
+  },
+  {
+    "name": "Morphéo",
+    "image": "https://github.com/TimeeRox/database/blob/main/Sprites3G/351GLACE.png?raw=true"
   },
   {
     "name": "Kecleon",
-    "image": "https://github.com/TimeeRox/database/blob/main/Sprites/352.png?raw=true"
+    "image": "https://github.com/TimeeRox/database/blob/main/Sprites3G/352.png?raw=true"
   },
   {
     "name": "Polichombr",
-    "image": "https://github.com/TimeeRox/database/blob/main/Sprites/353.png?raw=true"
+    "image": "https://github.com/TimeeRox/database/blob/main/Sprites3G/353.png?raw=true"
   },
   {
     "name": "Branette",
-    "image": "https://github.com/TimeeRox/database/blob/main/Sprites/354.png?raw=true"
+    "image": "https://github.com/TimeeRox/database/blob/main/Sprites3G/354.png?raw=true"
+  },
+  {
+    "name": "Branette",
+    "image": "https://github.com/TimeeRox/database/blob/main/Sprites3G/354M.png?raw=true"
   },
   {
     "name": "Skelénox",
-    "image": "https://github.com/TimeeRox/database/blob/main/Sprites/355.png?raw=true"
+    "image": "https://github.com/TimeeRox/database/blob/main/Sprites3G/355.png?raw=true"
   },
   {
     "name": "Téraclope",
-    "image": "https://github.com/TimeeRox/database/blob/main/Sprites/356.png?raw=true"
+    "image": "https://github.com/TimeeRox/database/blob/main/Sprites3G/356.png?raw=true"
   },
   {
     "name": "Tropius",
-    "image": "https://github.com/TimeeRox/database/blob/main/Sprites/357.png?raw=true"
+    "image": "https://github.com/TimeeRox/database/blob/main/Sprites3G/357.png?raw=true"
   },
   {
     "name": "Éoko",
-    "image": "https://github.com/TimeeRox/database/blob/main/Sprites/358.png?raw=true"
+    "image": "https://github.com/TimeeRox/database/blob/main/Sprites3G/358.png?raw=true"
   },
   {
     "name": "Absol",
-    "image": "https://github.com/TimeeRox/database/blob/main/Sprites/359.png?raw=true"
+    "image": "https://github.com/TimeeRox/database/blob/main/Sprites3G/359.png?raw=true"
+  },
+  {
+    "name": "Absol",
+    "image": "https://github.com/TimeeRox/database/blob/main/Sprites3G/359M.png?raw=true"
   },
   {
     "name": "Okéoké",
-    "image": "https://github.com/TimeeRox/database/blob/main/Sprites/360.png?raw=true"
+    "image": "https://github.com/TimeeRox/database/blob/main/Sprites3G/360.png?raw=true"
   },
   {
     "name": "Stalgamin",
-    "image": "https://github.com/TimeeRox/database/blob/main/Sprites/361.png?raw=true"
+    "image": "https://github.com/TimeeRox/database/blob/main/Sprites3G/361.png?raw=true"
   },
   {
     "name": "Oniglali",
-    "image": "https://github.com/TimeeRox/database/blob/main/Sprites/362.png?raw=true"
+    "image": "https://github.com/TimeeRox/database/blob/main/Sprites3G/362.png?raw=true"
+  },
+  {
+    "name": "Oniglali",
+    "image": "https://github.com/TimeeRox/database/blob/main/Sprites3G/362M.png?raw=true"
   },
   {
     "name": "Obalie",
-    "image": "https://github.com/TimeeRox/database/blob/main/Sprites/363.png?raw=true"
+    "image": "https://github.com/TimeeRox/database/blob/main/Sprites3G/363.png?raw=true"
   },
   {
     "name": "Phogleur",
-    "image": "https://github.com/TimeeRox/database/blob/main/Sprites/364.png?raw=true"
+    "image": "https://github.com/TimeeRox/database/blob/main/Sprites3G/364.png?raw=true"
   },
   {
     "name": "Kaimorse",
-    "image": "https://github.com/TimeeRox/database/blob/main/Sprites/365.png?raw=true"
+    "image": "https://github.com/TimeeRox/database/blob/main/Sprites3G/365.png?raw=true"
   },
   {
     "name": "Coquiperl",
-    "image": "https://github.com/TimeeRox/database/blob/main/Sprites/366.png?raw=true"
+    "image": "https://github.com/TimeeRox/database/blob/main/Sprites3G/366.png?raw=true"
   },
   {
     "name": "Serpang",
-    "image": "https://github.com/TimeeRox/database/blob/main/Sprites/367.png?raw=true"
+    "image": "https://github.com/TimeeRox/database/blob/main/Sprites3G/367.png?raw=true"
   },
   {
     "name": "Rosabyss",
-    "image": "https://github.com/TimeeRox/database/blob/main/Sprites/368.png?raw=true"
+    "image": "https://github.com/TimeeRox/database/blob/main/Sprites3G/368.png?raw=true"
   },
   {
     "name": "Relicanth",
-    "image": "https://github.com/TimeeRox/database/blob/main/Sprites/369.png?raw=true"
+    "image": "https://github.com/TimeeRox/database/blob/main/Sprites3G/369.png?raw=true"
   },
   {
     "name": "Lovdisc",
-    "image": "https://github.com/TimeeRox/database/blob/main/Sprites/370.png?raw=true"
+    "image": "https://github.com/TimeeRox/database/blob/main/Sprites3G/370.png?raw=true"
   },
   {
     "name": "Draby",
-    "image": "https://github.com/TimeeRox/database/blob/main/Sprites/371.png?raw=true"
+    "image": "https://github.com/TimeeRox/database/blob/main/Sprites3G/371.png?raw=true"
   },
   {
     "name": "Drackhaus",
-    "image": "https://github.com/TimeeRox/database/blob/main/Sprites/372.png?raw=true"
+    "image": "https://github.com/TimeeRox/database/blob/main/Sprites3G/372.png?raw=true"
   },
   {
     "name": "Drattak",
-    "image": "https://github.com/TimeeRox/database/blob/main/Sprites/373.png?raw=true"
+    "image": "https://github.com/TimeeRox/database/blob/main/Sprites3G/373.png?raw=true"
+  },
+  {
+    "name": "Drattak",
+    "image": "https://github.com/TimeeRox/database/blob/main/Sprites3G/373M.png?raw=true"
   },
   {
     "name": "Terhal",
-    "image": "https://github.com/TimeeRox/database/blob/main/Sprites/374.png?raw=true"
+    "image": "https://github.com/TimeeRox/database/blob/main/Sprites3G/374.png?raw=true"
   },
   {
     "name": "Métang",
-    "image": "https://github.com/TimeeRox/database/blob/main/Sprites/375.png?raw=true"
+    "image": "https://github.com/TimeeRox/database/blob/main/Sprites3G/375.png?raw=true"
   },
   {
     "name": "Métalosse",
-    "image": "https://github.com/TimeeRox/database/blob/main/Sprites/376.png?raw=true"
+    "image": "https://github.com/TimeeRox/database/blob/main/Sprites3G/376.png?raw=true"
+  },
+  {
+    "name": "Métalosse",
+    "image": "https://github.com/TimeeRox/database/blob/main/Sprites3G/376M.png?raw=true"
   },
   {
     "name": "Regirock",
-    "image": "https://github.com/TimeeRox/database/blob/main/Sprites/377.png?raw=true"
+    "image": "https://github.com/TimeeRox/database/blob/main/Sprites3G/377.png?raw=true"
   },
   {
     "name": "Regice",
-    "image": "https://github.com/TimeeRox/database/blob/main/Sprites/378.png?raw=true"
+    "image": "https://github.com/TimeeRox/database/blob/main/Sprites3G/378.png?raw=true"
   },
   {
     "name": "Registeel",
-    "image": "https://github.com/TimeeRox/database/blob/main/Sprites/379.png?raw=true"
+    "image": "https://github.com/TimeeRox/database/blob/main/Sprites3G/379.png?raw=true"
   },
   {
     "name": "Latias",
-    "image": "https://github.com/TimeeRox/database/blob/main/Sprites/380.png?raw=true"
+    "image": "https://github.com/TimeeRox/database/blob/main/Sprites3G/380.png?raw=true"
+  },
+  {
+    "name": "Latias",
+    "image": "https://github.com/TimeeRox/database/blob/main/Sprites3G/380M.png?raw=true"
   },
   {
     "name": "Latios",
-    "image": "https://github.com/TimeeRox/database/blob/main/Sprites/381.png?raw=true"
+    "image": "https://github.com/TimeeRox/database/blob/main/Sprites3G/381.png?raw=true"
+  },
+  {
+    "name": "Latios",
+    "image": "https://github.com/TimeeRox/database/blob/main/Sprites3G/381M.png?raw=true"
   },
   {
     "name": "Kyogre",
-    "image": "https://github.com/TimeeRox/database/blob/main/Sprites/382.png?raw=true"
+    "image": "https://github.com/TimeeRox/database/blob/main/Sprites3G/382.png?raw=true"
+  },
+  {
+    "name": "Kyogre",
+    "image": "https://github.com/TimeeRox/database/blob/main/Sprites3G/382P.png?raw=true"
   },
   {
     "name": "Groudon",
-    "image": "https://github.com/TimeeRox/database/blob/main/Sprites/383.png?raw=true"
+    "image": "https://github.com/TimeeRox/database/blob/main/Sprites3G/383.png?raw=true"
+  },
+  {
+    "name": "Groudon",
+    "image": "https://github.com/TimeeRox/database/blob/main/Sprites3G/383P.png?raw=true"
   },
   {
     "name": "Rayquaza",
-    "image": "https://github.com/TimeeRox/database/blob/main/Sprites/384.png?raw=true"
+    "image": "https://github.com/TimeeRox/database/blob/main/Sprites3G/384.png?raw=true"
+  },
+  {
+    "name": "Rayquaza",
+    "image": "https://github.com/TimeeRox/database/blob/main/Sprites3G/384M.png?raw=true"
   },
   {
     "name": "Jirachi",
-    "image": "https://github.com/TimeeRox/database/blob/main/Sprites/385.png?raw=true"
+    "image": "https://github.com/TimeeRox/database/blob/main/Sprites3G/385.png?raw=true"
   },
   {
     "name": "Deoxys",
-    "image": "https://github.com/TimeeRox/database/blob/main/Sprites/386.png?raw=true"
+    "image": "https://github.com/TimeeRox/database/blob/main/Sprites3G/386.png?raw=true"
+  },
+  {
+    "name": "Deoxys",
+    "image": "https://github.com/TimeeRox/database/blob/main/Sprites3G/386ATTAQUE.png?raw=true"
+  },
+  {
+    "name": "Deoxys",
+    "image": "https://github.com/TimeeRox/database/blob/main/Sprites3G/386DEFENSE.png?raw=true"
+  },
+  {
+    "name": "Deoxys",
+    "image": "https://github.com/TimeeRox/database/blob/main/Sprites3G/386VITESSE.png?raw=true"
   },
   {
     "name": "Tortipouss",
