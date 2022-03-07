@@ -724,6 +724,10 @@
     "image": "https://github.com/TimeeRox/database/blob/main/Sprites2G/181.png?raw=true"
   },
   {
+    "name": "Pharamp",
+    "image": "https://github.com/TimeeRox/database/blob/main/Sprites2G/181M.png?raw=true"
+  },
+  {
     "name": "Joliflor",
     "image": "https://github.com/TimeeRox/database/blob/main/Sprites2G/182.png?raw=true"
   },
@@ -794,6 +798,10 @@
   {
     "name": "Roigada",
     "image": "https://github.com/TimeeRox/database/blob/main/Sprites2G/199.png?raw=true"
+  },
+  {
+    "name": "Roigada",
+    "image": "https://github.com/TimeeRox/database/blob/main/Sprites2G/199G.png?raw=true"
   },
   {
     "name": "Feuforêve",
@@ -940,6 +948,10 @@
     "image": "https://github.com/TimeeRox/database/blob/main/Sprites2G/208.png?raw=true"
   },
   {
+    "name": "Steelix",
+    "image": "https://github.com/TimeeRox/database/blob/main/Sprites2G/208M.png?raw=true"
+  },
+  {
     "name": "Snubbull",
     "image": "https://github.com/TimeeRox/database/blob/main/Sprites2G/209.png?raw=true"
   },
@@ -956,12 +968,20 @@
     "image": "https://github.com/TimeeRox/database/blob/main/Sprites2G/212.png?raw=true"
   },
   {
+    "name": "Cizayox",
+    "image": "https://github.com/TimeeRox/database/blob/main/Sprites2G/212M.png?raw=true"
+  },
+  {
     "name": "Caratroc",
     "image": "https://github.com/TimeeRox/database/blob/main/Sprites2G/213.png?raw=true"
   },
   {
     "name": "Scarhino",
     "image": "https://github.com/TimeeRox/database/blob/main/Sprites2G/214.png?raw=true"
+  },
+  {
+    "name": "Scarhino",
+    "image": "https://github.com/TimeeRox/database/blob/main/Sprites2G/214M.png?raw=true"
   },
   {
     "name": "Farfuret",
@@ -996,6 +1016,10 @@
     "image": "https://github.com/TimeeRox/database/blob/main/Sprites2G/222.png?raw=true"
   },
   {
+    "name": "Corayon",
+    "image": "https://github.com/TimeeRox/database/blob/main/Sprites2G/222G.png?raw=true"
+  },
+  {
     "name": "Rémoraid",
     "image": "https://github.com/TimeeRox/database/blob/main/Sprites2G/223.png?raw=true"
   },
@@ -1022,6 +1046,10 @@
   {
     "name": "Démolosse",
     "image": "https://github.com/TimeeRox/database/blob/main/Sprites2G/229.png?raw=true"
+  },
+  {
+    "name": "Démolosse",
+    "image": "https://github.com/TimeeRox/database/blob/main/Sprites2G/229M.png?raw=true"
   },
   {
     "name": "Hyporoi",
@@ -1098,6 +1126,10 @@
   {
     "name": "Tyranocif",
     "image": "https://github.com/TimeeRox/database/blob/main/Sprites2G/248.png?raw=true"
+  },
+  {
+    "name": "Tyranocif",
+    "image": "https://github.com/TimeeRox/database/blob/main/Sprites2G/248M.png?raw=true"
   },
   {
     "name": "Lugia",
