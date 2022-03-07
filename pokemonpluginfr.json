@@ -148,6 +148,10 @@
     "image": "https://github.com/TimeeRox/database/blob/main/Sprites1G/026.png?raw=true"
   },
   {
+    "name": "Raichu",
+    "image": "https://github.com/TimeeRox/database/blob/main/Sprites1G/026A.png?raw=true"
+  },
+  {
     "name": "Sabelette",
     "image": "https://github.com/TimeeRox/database/blob/main/Sprites1G/027.png?raw=true"
   },
@@ -260,8 +264,16 @@
     "image": "https://github.com/TimeeRox/database/blob/main/Sprites1G/050.png?raw=true"
   },
   {
+    "name": "Taupiqueur",
+    "image": "https://github.com/TimeeRox/database/blob/main/Sprites1G/050A.png?raw=true"
+  },
+  {
     "name": "Triopikeur",
     "image": "https://github.com/TimeeRox/database/blob/main/Sprites1G/051.png?raw=true"
+  },
+  {
+    "name": "Triopikeur",
+    "image": "https://github.com/TimeeRox/database/blob/main/Sprites1G/051A.png?raw=true"
   },
   {
     "name": "Miaouss",
@@ -420,8 +432,16 @@
     "image": "https://github.com/TimeeRox/database/blob/main/Sprites1G/079.png?raw=true"
   },
   {
+    "name": "Ramoloss",
+    "image": "https://github.com/TimeeRox/database/blob/main/Sprites1G/079G.png?raw=true"
+  },
+  {
     "name": "Flagadoss",
     "image": "https://github.com/TimeeRox/database/blob/main/Sprites1G/080.png?raw=true"
+  },
+  {
+    "name": "Flagadoss",
+    "image": "https://github.com/TimeeRox/database/blob/main/Sprites1G/080G.png?raw=true"
   },
   {
     "name": "Flagadoss",
@@ -542,6 +562,10 @@
   {
     "name": "Noadkoko",
     "image": "https://github.com/TimeeRox/database/blob/main/Sprites1G/103.png?raw=true"
+  },
+  {
+    "name": "Noadkoko",
+    "image": "https://github.com/TimeeRox/database/blob/main/Sprites1G/103A.png?raw=true"
   },
   {
     "name": "Osselait",
